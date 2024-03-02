@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/mohamed/projects/bank'
+let g:netrw_dirhist_3='/home/mohamed/.ncmpcpp'
+let g:netrw_dirhist_2='/home/mohamed/.1password'
+let g:netrw_dirhist_1='/home/mohamed/src/dwm'
+let g:netrw_dirhist_0='/home/mohamed/src'
+let g:netrw_dirhist_9='/home/mohamed/src/st'
+let g:netrw_dirhist_8='/home/mohamed/.vim/ftdetect'
+let g:netrw_dirhist_7='/home/mohamed/src/dwm'
+let g:netrw_dirhist_6='/home/mohamed/.config/sxhkd'
+let g:netrw_dirhist_5='/bin'
